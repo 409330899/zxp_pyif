@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<interface>
+    <url name="event_get">
+        <group>api</group>
+        <module>get_event_list</module>
+    </url>
+
+    <url name="guest_get">
+        <group>api</group>
+        <module>get_guest_list</module>
+    </url>
+
+    <url name="event_add">
+        <group>api</group>
+        <module>add_event</module>
+    </url>
+
+    <url name="guest_add">
+        <group>api</group>
+        <module>add_guest</module>
+    </url>
+
+    <url name="user_sign">
+        <group>api</group>
+        <module>user_sign</module>
+    </url>		
+</interface>
